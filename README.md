@@ -2,7 +2,9 @@
 ## Week 1 - days 4 to 6
 
 To continue on with the review for this week, here are some callback functions that you can try out. Run them on a web-based IDE, like repl.it to see it run instantly in the browser:
+
 [Repl.it](https://repl.it/languages/)
+
 Search "JavaScript" in the top search bar to get started. 
 
 ### Notes about these JS exercises:
